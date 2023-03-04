@@ -23,4 +23,13 @@ public class test1 {
 		
 		
 	}
+	
+	public void Demo2()
+	{
+		System.out.println("American");
+		System.out.println("code");
+		System.out.println("ready");
+		
+		
+	}
 }
