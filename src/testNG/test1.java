@@ -9,6 +9,7 @@ public class test1 {
 	public void Demo()
 	{
 		System.out.println("Hello");
+		System.out.println("World");
 		
 	}
 }
