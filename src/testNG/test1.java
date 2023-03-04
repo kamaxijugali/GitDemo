@@ -14,4 +14,13 @@ public class test1 {
 		
 		
 	}
+	
+	public void Demo2()
+	{
+		System.out.println("Auzzie");
+		System.out.println("World");
+		System.out.println("Australia");
+		
+		
+	}
 }
