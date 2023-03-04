@@ -24,7 +24,7 @@ public class test1 {
 		
 	}
 	
-	public void Demo2()
+	public void Demo3()
 	{
 		System.out.println("American");
 		System.out.println("code");
